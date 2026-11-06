@@ -1,0 +1,7 @@
+# Direct dependency versions used for the verified Windows / Python 3.14 setup.
+# Transitive dependencies are resolved by pip; this is not a complete lockfile.
+gurobipy==13.0.3
+numpy==2.4.6
+pandas==3.0.5
+gradio==6.31.0
+yfinance==1.8.0

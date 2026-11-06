@@ -1,0 +1,14 @@
+ticker,name,asset_class,defensive,div_yield_pct
+BND,Vanguard Total Bond Market ETF,Bonds,1,4.17
+EFA,iShares MSCI EAFE ETF,International,0,3.24
+GLD,SPDR Gold Shares ETF,Alternatives,1,0.0
+HYG,iShares High Yield Corp Bond ETF,Bonds,1,6.14
+IWM,iShares Russell 2000 ETF,US Equity,0,0.98
+LQD,iShares Inv Grade Corp Bond ETF,Bonds,1,4.91
+QQQ,Invesco Nasdaq-100 ETF,US Equity,0,0.42
+SHY,iShares 1-3 Yr Treasury ETF,Bonds,1,3.65
+SPY,SPDR S&P 500 ETF,US Equity,0,0.99
+TLT,iShares 20+ Yr Treasury ETF,Bonds,1,5.0
+VNQ,Vanguard Real Estate ETF,Alternatives,1,3.8
+VTI,Vanguard Total Stock Market ETF,US Equity,0,1.06
+VXUS,Vanguard Total Intl Stock ETF,International,0,2.34

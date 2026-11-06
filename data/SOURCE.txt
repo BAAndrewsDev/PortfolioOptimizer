@@ -1,0 +1,1 @@
+yfinance live download (1255 trading days, ~5y)

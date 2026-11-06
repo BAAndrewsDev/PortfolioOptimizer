@@ -1,0 +1,24 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local credentials and Gurobi license files
+.env
+.env.*
+!.env.example
+gurobi.lic
+*.lic
+*.pem
+*.key
+
+# Local logs and operating system files
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini

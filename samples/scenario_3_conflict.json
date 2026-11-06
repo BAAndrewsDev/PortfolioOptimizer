@@ -1,0 +1,14 @@
+{
+  "tickers": ["SPY", "QQQ", "IWM", "VXUS", "BND", "TLT", "HYG", "GLD", "VNQ"],
+  "mode": "qp",
+  "lambda_": 3.0,
+  "risk_free": 4.0,
+  "long_only": true,
+  "max_single": 10.0,
+  "min_lowrisk": 60.0,
+  "max_equity": 70.0,
+  "min_dividend": 0.0,
+  "logic": "and",
+  "max_holdings": 8,
+  "min_position": 3.0
+}
